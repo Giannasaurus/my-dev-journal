@@ -14,5 +14,7 @@
 </details>
 
 ### Update log
-09/28/25: Need help in linking Termux with Spck Editor, if possible. <br>
-09/25/25: I can now use Git and GitHub in Termux 🤯🤯🤯 amazing <br>
+20251021: An IDE right in my browser?! Heck yea!!!! <br>
+(Linux on mobile soon 👀)
+20250928: Need help in linking Termux with Spck Editor, if possible. <br>
+20250925: I can now use Git and GitHub in Termux 🤯🤯🤯 amazing <br>
