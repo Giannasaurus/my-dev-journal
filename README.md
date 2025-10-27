@@ -14,6 +14,7 @@
 </details>
 
 ### Update log
+20251026: Officially started leetcoding. This is frying my brain
 20251021: An IDE right in my browser?! Heck yea!!!! (and Linux on mobile soon 👀) <br>
 20250928: Need help in linking Termux with Spck Editor, if possible. <br>
 20250925: I can now use Git and GitHub in Termux 🤯🤯🤯 amazing <br>
