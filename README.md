@@ -14,6 +14,7 @@
 </details>
 
 ### Update log
+20251029: I'm joining my first hackathon!!!! 🤯
 20251027: What the helly I just overwrote this repo's commit history and deleted most reflogs 😭🙏 <br>
 20251026: Officially started leetcoding. This is frying my brain <br>
 20251021: An IDE right in my browser?! Heck yea!!!! (and Linux on mobile soon 👀) <br>
