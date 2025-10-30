@@ -1,0 +1,13 @@
+20251031 today's learnings: git config --global alias
+
+git config --list | -l
+git config --global alias.<alias> <command>
+git config --global alias.<alias> "<with-space>"
+git log -1 | -1 HEAD --oneline
+git log --graph main
+git log --author="<name>" | --oneline
+
+examples:
+git config --global alias.go "push origin"
+git config --global alias.gtfo "push --force origin"
+git a && git cm "helo" && echo && git go
