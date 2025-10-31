@@ -2,7 +2,7 @@
 
 git config --list | -l
 git config --global alias.<alias> <command>
-git config --global alias.<alias> "<with-space>"
+git config --global alias.<alias> "<with space>"
 git log -1 | -1 HEAD --oneline
 git log --graph main
 git log --author="<name>" | --oneline
