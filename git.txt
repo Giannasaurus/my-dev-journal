@@ -3,11 +3,15 @@
 git config --list | -l
 git config --global alias.<alias> <command>
 git config --global alias.<alias> "<with space>"
+git config --global --edit
 git log -1 | -1 HEAD --oneline
 git log --graph main
 git log --author="<name>" | --oneline
 
 examples:
+git config --global alias.adenosinetriphosphate "add ."
+git config --global alias.k commit
+git config --global alias.ok "commit -m"
 git config --global alias.go "push origin"
 git config --global alias.gtfo "push --force origin"
-git a && git cm "helo" && echo && git go
+git adenosinetriphosphate && git ok "helo" && echo && git go
