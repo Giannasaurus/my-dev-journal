@@ -1,0 +1,14 @@
+20251101 today's learnings:
+gh auth login
+gh auth token
+
+gh browse --branch main
+gh browse --commit README.md
+gh browse --commit <SHA> # doesnt work for me
+gh browse --no-browser
+gh browse --projects
+gh browse --repo giannasaurus/code-everyday
+gh browse --settings
+gh browse --wiki
+
+ok that's enough i need to work on projects 💀
