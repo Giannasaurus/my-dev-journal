@@ -14,6 +14,7 @@
 </details>
 
 ### Update log
+20251101: TONIGHT, I'M INSTALLING UBUNTU IN MY PHONE BECAUSE I'M THAT CRAZY <br>
 20251031: I just learned Bash scripting 🤯 I'm unstoppable now <br>
 20251029: I'm joining my first hackathon!!!! 🤯 <br>
 20251027: What the helly I just overwrote this repo's commit history and deleted most reflogs 😭🙏 <br>
